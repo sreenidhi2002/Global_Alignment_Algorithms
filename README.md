@@ -26,7 +26,9 @@ The main functions in our code include the following:
 ## Results
 
 **Time taken for the Needleman-Wunsch and Hirschberg Algorithms**
+<img width="664" alt="Screenshot 2023-12-15 at 9 42 31 PM" src="https://github.com/sreenidhi2002/Global_Alignment_Algorithms/assets/55078126/c17a5526-918c-4cfc-98a6-8262b29377ce">
 
 **Memory used by the Needleman-Wunsch and Hirschberg Algorithms**
+<img width="651" alt="Screenshot 2023-12-15 at 9 42 39 PM" src="https://github.com/sreenidhi2002/Global_Alignment_Algorithms/assets/55078126/d3c3cbd6-77f0-42e9-b9c3-a4156b9f075e">
 
 
