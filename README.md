@@ -1,7 +1,6 @@
-# CS 466 - Implementation of Global Alignment Algorithms
-Final Project for CS 466 Fall 2023
+# Implementation of Global Alignment Algorithms
 
-**Group Members:** Rayna Patel and Sreenidhi Vijayaraghavan
+**Project Contributors:** Sreenidhi Vijayaraghavan and Rayna Patel
 
 ## Overview
 Global alignment is a crucial task in the field of bioinformatics and it allows for the comparison of sequences of DNA, RNA, or proteins to identify similarities between them. This process is used in bioinformatics for various evolutionary and functional analyses. In this project, we delve into two of the most prominent global alignment algorithms - Needleman-Wunsch and Hirschberg, and we compare the differences in performance between them.
